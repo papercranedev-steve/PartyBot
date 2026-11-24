@@ -1,0 +1,8 @@
+## Interface: 11402
+## Title: PartyBot Language
+## Title-zhCN: PartyBot 语言设置
+## Notes: Keeps the PartyBot addon's language choice. PartyBot reads it while it loads, so it has to be a separate addon.
+## Notes-zhCN: 保存 PartyBot 插件的语言选择。PartyBot 加载时就要用到它，所以单独做成一个插件。
+## Version: 1.0.0
+## SavedVariables: PartyBotLanguageDB
+Language.lua

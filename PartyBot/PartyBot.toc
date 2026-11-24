@@ -1,0 +1,47 @@
+## Interface: 11402
+## Title: PartyBot
+## Title-zhCN: PartyBot 队友助手
+## Notes: Companions for VMaNGOS: recruit, talk to and manage your bot companions (minimap button, Companions micro button).
+## Notes-zhCN: 伙伴系统：招募伙伴、与他们交谈、查看背包、资料、天赋和任务（小地图按钮、伙伴按钮）。
+## Version: 0.8.0
+## SavedVariables: PartyBotDB
+## OptionalDeps: PartyBot_Language
+Locales\Locale.lua
+Locales\zh.lua
+Locales\en.lua
+Core.lua
+Language.lua
+Gaze.lua
+Options.lua
+VoiceOptions.lua
+PlayerBags.lua
+BagGrid.lua
+TeamTabs.lua
+Bags.lua
+Talents.lua
+Quest.lua
+Companions.lua
+TeamBags.lua
+Bank.lua
+AffinityHelp.lua
+CompanionSlots.lua
+CompanionShowcase.lua
+CompanionSheet.lua
+Sheet\CharacterStats.lua
+Sheet\GearList.lua
+Sheet\CharacterPage.lua
+Sheet\AffinityPage.lua
+Sheet\ReputationPage.lua
+Sheet\SkillPage.lua
+Sheet\QuestPage.lua
+CompanionMenu.lua
+CompanionsButton.lua
+CompanionsCharacterTab.lua
+PartyPortraits.lua
+Guide.lua
+DialogPage.lua
+Requests.lua
+Talk.lua
+Recruit.lua
+Craft.lua
+MinimapButton.lua

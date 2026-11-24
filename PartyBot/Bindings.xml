@@ -1,0 +1,6 @@
+<Bindings>
+    <!-- key bindings of the PartyBot addon (names: Talk.lua) -->
+    <Binding name="PARTYBOT_TALK" header="PARTYBOT" category="ADDONS">
+        PartyBot_TalkToTarget()
+    </Binding>
+</Bindings>
